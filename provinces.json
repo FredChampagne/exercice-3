@@ -1,0 +1,56 @@
+{
+      "provinces": [ 
+            {
+                  "acronyme" : "QC",
+                  "nom" : "Québec"
+            },
+            {
+                  "acronyme" : "ON",
+                  "nom" : "Ontario"
+            },
+            {
+                  "acronyme" : "MA",
+                  "nom" : "Manitoba"
+            },
+            {
+                  "acronyme" : "SK",
+                  "nom" : "Saskatchewan"
+            },
+            {
+                  "acronyme" : "AL",
+                  "nom" : "Alberta"
+            },
+            {
+                  "acronyme" : "CB",
+                  "nom" : "Colombie-Britannique"
+            },
+            {
+                  "acronyme" : "NB",
+                  "nom" : "Nouveau-Brunswick"
+            },
+            {
+                  "acronyme" : "NE",
+                  "nom" : "Nouvelle-Écosse"
+            },
+            {
+                  "acronyme" : "IPE",
+                  "nom" : "Île-du-Prince-Édouard"
+            },
+            {
+                  "acronyme" : "TN",
+                  "nom" : "Terre-Neuve-et-Labrador"
+            },
+            {
+                  "acronyme" : "NV",
+                  "nom" : "Nunavut"
+            },
+            {
+                  "acronyme" : "TNO",
+                  "nom" : "Territoire du Nord-Ouest"  
+            },
+            {
+                  "acronyme" : "YK",
+                  "nom" : "Yukon"  
+            }
+      ]
+}
