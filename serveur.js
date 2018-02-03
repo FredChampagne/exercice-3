@@ -18,7 +18,7 @@ http.createServer((request, response)=>{
 	response.write('<!DOCTYPE "html">');
 	response.write('<html>');
 	response.write('<head>');
-	response.write('<title>Vive Node.js</title>');
+	response.write('<title>Exercice 3</title>');
 	response.write('</head>');
 	response.write('<body>');
 	response.write('<table><thead><tr><th>Acronyme</th><th>Nom</th></tr></thead><tbody>');
