@@ -6,7 +6,7 @@ fs.readFile('provinces.json', 'utf8', function (err, data) {
 
 const contenu_objet_json = (obj)=>{
 	let trace = '';
-	obj.provinces.forEach((elm,i)=>{
+	obj.provinces.forEach((elm)=>{
 		trace += "<tr><td>" + elm.acronyme + '</td><td>' + elm.nom + '</td></tr>';
 	})
 	return trace;
